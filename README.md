@@ -6,19 +6,11 @@
 <img align="center" alt="Coding" width="700" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
-- 🌱 I’m currently learning **Cloud & DevOps**
-
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 👨‍💻 All of my projects are available at [www.youtube.com/@vijaygiduthuri67](www.youtube.com/@vijaygiduthuri67)
+- 🌱 I’m currently working as **Cloud & DevOps Engineer**
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **vijaygiduthuri67@gmail.com**
-
-- ⚡ Fun fact **I Create YouTube Videos**
+- 📫 How to reach me **maladikrishnakishore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
