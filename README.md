@@ -3,7 +3,7 @@
     
 <div align="center"> <img src="https://github.com/Krish121212/Krish121212/blob/main/github-header-image.png"> </div>
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
-<img align="center" alt="Coding" width="700" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
+<img align="center" alt="Coding" width="600" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 - 🌱 I’m currently working as **Cloud & DevOps Engineer**
