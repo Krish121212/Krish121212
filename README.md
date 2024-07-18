@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B+;I'm+Krishna+Kishore!" alt="Typing SVG" /></a>
     
-<div align="center"> <img src="https://github.com/vijaygiduthuri/vijaygiduthuri/blob/main/banner.png"> </div>
+<div align="center"> <img src="https://github.com/Krish121212/Krish121212/blob/main/banner.png"> </div>
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
 <img align="center" alt="Coding" width="700" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
